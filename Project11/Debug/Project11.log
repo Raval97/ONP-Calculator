@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\rafał\desktop\studia\c++\2 semestr\zadanie 4.2\project11\source.cpp(17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  libFiles.cpp
+  Generowanie kodu...
+c:\users\rafał\desktop\studia\c++\2 semestr\zadanie 4.2\project11\libfiles.cpp(248): warning C4715: "f_ope_lacz”: niewszystkie ścieżki kodu zwracają wartość
+  Project11.vcxproj -> C:\Users\Rafał\Desktop\STUDIA\c++\2 semestr\zadanie 4.2\Debug\Project11.exe
